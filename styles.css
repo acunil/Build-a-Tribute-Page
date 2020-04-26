@@ -1,0 +1,61 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  background-color: rgba(100, 148, 237, 0.5);
+}
+
+#title {
+  background-color: rgb(100, 148, 250, 0.3);
+  text-align: center;
+  padding: 10px 0px 20px 0px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+#img-div {
+  margin: auto;
+  position: relative;
+  top: 20px;
+  background-color: white;
+  text-align: center;
+  padding: 0px 0px 30px 0px;
+}
+
+#image {
+  display: block;
+  margin: auto;
+}
+
+#tribute-info {
+  background-color;
+  position: relative;
+  width: 600px;
+  margin: auto;
+  line-height: 25px;
+}
+
+h2 {
+  text-align: center;
+  padding: 30px 0px 20px 0px;
+}
+
+#quote {
+  padding-top: 30px;
+  font-style: italic;
+}
+
+footer {
+  margin: auto;
+  text-align: center;
+}
+
+#tribute-link {
+  color: darkblue;
+}
+
+#tribute-link:hover {
+  color: blue;
+}
